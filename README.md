@@ -194,6 +194,28 @@ This project demonstrates how transactional data can be transformed into meaning
 
 ---
 
+## Dataset Access
+The dataset used in this project contains 100,000 banking transactions.
+Due to file size limitations, the full dataset is hosted externally.
+
+📂 Dataset (Excel & CSV):  
+(https://drive.google.com/drive/folders/1-hHugYJFljfBs1cGIXVk8aYpwNniaHU3?usp=sharing)
+
+---
+
+## Tableau Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### KPI Section
+![KPI Section](screenshots/kpi_section.png)
+
+### Charts Section
+![Charts Section](screenshots/charts_section.png)
+
+---
+
 ## Author
 **Vivek Kumar**  
 Data Analyst | SQL | Tableau | Excel  
@@ -205,4 +227,5 @@ Data Analyst | SQL | Tableau | Excel
 
 ## Note
 This project is created for learning, portfolio development, and real-world analytical practice using banking transaction data.
-
+##  If you find this project useful
+Please ⭐ star the repository — it helps showcase my work to recruiters!
