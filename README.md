@@ -154,7 +154,7 @@ The Account Activity Ratio highlights how actively customers transact relative t
 ---
 
 ### 6. High-Risk Transaction Identification
-High-risk transactions—flagged based on unusually large amounts or irregular patterns—are concentrated within specific periods and branches. Monitoring these transactions helps banks strengthen **fraud detection mechanisms** and apply additional compliance checks where required.
+High-risk transactions-flagged based on unusually large amounts or irregular patterns-are concentrated within specific periods and branches. Monitoring these transactions helps banks strengthen **fraud detection mechanisms** and apply additional compliance checks where required.
 
 ---
 
@@ -228,4 +228,4 @@ Data Analyst | SQL | Tableau | Excel
 ## Note
 This project is created for learning, portfolio development, and real-world analytical practice using banking transaction data.
 ##  If you find this project useful
-Please ⭐ star the repository — it helps showcase my work to recruiters!
+Please ⭐ star the repository - it helps showcase my work to recruiters!
